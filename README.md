@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, C++, Java.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: 
-• Discord: Kevlat#6506 
+• Discord: Kevlat#0776
 • Telegram: https://t.me/Kevlat 
 
 <!---
